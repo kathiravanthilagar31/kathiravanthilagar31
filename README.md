@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi there! I’m Kathiravan Thilagar, a Data Scientist focused on building impactful AI solutions — with practical experience in finance and different operational domains.<br><br>📊 I bring 3+ years of hands-on experience developing ML applications in financial analysis, credit risk modeling, cost forecasting, and process automation.<br><br>🧠 Grounded in Mathematics and Computer Science, I build intelligent, data-driven solutions to solve diverse and dynamic problems.<br><br>🤖 Skilled in machine learning, deep learning, NLP, generative AI, and agent-based systems — with strong core knowledge and hands-on practice with LLMs and AI experimentation frameworks through self-driven projects.<br><br>☁️ Experience deploying AI applications using Azure, with working knowledge of AWS and GCP.<br><br>💼 Currently exploring Data Scientist and AI/ML roles where I can contribute to innovative solutions and continue advancing in AI development.<br><br>Let’s connect if you’re interested in AI, technology’s future, or exploring how AI can transform industries!
+Hi there! I’m Kathiravan Thilagar, a Data Scientist focused on building impactful AI solutions — with practical experience in finance and different operational domains.
+
+📊 I have 3+ years of hands-on experience designing and deploying machine learning applications in invoice automation, cost forecasting and anomaly detection—bringing measurable impact in financial workflows.
+
+🧠 Grounded in Mathematics and Computer Science, I build intelligent, data-driven solutions to solve diverse and dynamic problems.
+
+🤖 Skilled in machine learning, deep learning, NLP, generative AI, and agent-based systems — with strong core knowledge and hands-on practice with LLMs and AI experimentation frameworks.
+
+☁️ Experience deploying AI applications using Azure, with practical knowledge of AWS and GCP cloud platforms.
+
+💼 Currently exploring Data Scientist and AI/ML roles where I can contribute to innovative solutions and continue advancing in AI development.
+
+Let’s connect if you’re interested in AI, technology’s future, or exploring how AI can transform industries!
 
 
 ## 🌐 Socials:
